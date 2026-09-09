@@ -21,10 +21,10 @@
 
 ## 🙋 Haqqımda / About me
 
-- 🇦🇿 Azərbaycan əsaslı Data Analyst — maliyyə datasını mənalı anlayışlara çevirirəm
-- 🌍 Data Analyst based in Azerbaijan, turning financial data into actionable insights
-- 🔭 Hazırda kredit riski modelləri üzərində işləyirəm
-- 📫 Əlaqə: [LinkedIn](https://www.linkedin.com/in/samir-cavadov-83a267b4/)
+- 🇦🇿 Data Analyst və Database Developer istiqamətində inkişaf edən mütəxəssisəm
+- 🌍 Data Analyst and Database Developer with a growing focus on turning data into actionable insights
+- 🎯 Fokus sahələrim / Core focus areas: **Data Analysis · SQL Development · PL/SQL · Business Intelligence (BI)**
+- 📫 Əlaqə / Contact: [LinkedIn](https://www.linkedin.com/in/samir-cavadov-83a267b4/)
 
 ---
 
@@ -49,8 +49,13 @@
 - 📈 Power BI "Executive" dashboard
 
 ### 🏦 [Core Banking System — Oracle PL/SQL](https://github.com/samircavadov-tech/core-banking-plsql)
-> Real bank sisteminə bənzəyən "Core Banking" backend məntiqi — Oracle SQL, PL/SQL 
-> Müştəri/hesab idarəetməsi, pul köçürməsi, deposit/withdrawal, faiz hesablama, hesab çıxarışı (statement) və tam audit/log sistemi
+> Real bank sisteminə bənzəyən "Core Banking" backend məntiqi — Oracle SQL və PL/SQL ilə
+
+- 👤 Müştəri və hesab idarəetməsi
+- 💸 Pul köçürməsi, deposit/withdrawal əməliyyatları
+- 📈 Faiz hesablama məntiqi
+- 🧾 Hesab çıxarışı (statement) generasiyası
+- 🔍 Tam audit/log sistemi
 
 
 ---
@@ -62,5 +67,5 @@ Mənim [Kaggle profilim](https://www.kaggle.com/samircavadov) — datasets və n
 ---
 
 <p align="center">
-  <i>Əməkdaşlıq üçün LinkedIn-dən əlaqə saxlayın!</i>
+  <i>Əməkdaşlıq üçün LinkedIn-dən əlaqə saxlayın! / Feel free to reach out via LinkedIn for collaboration!</i>
 </p>
