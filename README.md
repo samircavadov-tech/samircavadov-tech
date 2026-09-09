@@ -33,7 +33,7 @@
 | Kateqoriya | Alətlər |
 |---|---|
 | Proqramlaşdırma | Python (Pandas, NumPy) |
-| Verilənlər bazası | Oracle SQL |
+| Verilənlər bazası | Oracle SQL, PL/SQL |
 | Vizuallaşdırma | Power BI, DAX |
 | Digər | Excel, ETL pipeline |
 
@@ -47,6 +47,11 @@
 - 📊 A–G reytinq sisteminin batma faizi ilə korrelyasiyası
 - 🧹 ETL pipeline: Kaggle datası → Pandas ilə təmizlənmə → SQL analizi
 - 📈 Power BI "Executive" dashboard
+
+### 🏦 [Core Banking System — Oracle PL/SQL](https://github.com/samircavadov-tech/core-banking-plsql)
+> Real bank sisteminə bənzəyən "Core Banking" backend məntiqi — Oracle SQL, PL/SQL 
+> Müştəri/hesab idarəetməsi, pul köçürməsi, deposit/withdrawal, faiz hesablama, hesab çıxarışı (statement) və tam audit/log sistemi
+
 
 ---
 
