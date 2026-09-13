@@ -1,7 +1,7 @@
 <h1 align="center">Salam, mən Samir Cavadov-am 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Python · SQL · Power BI</b><br/>
+  <b>Data Analyst · Python · ORACLE SQL · PL/SQL · Power BI · Claude AI </b><br/>
   🇦🇿 Baku, Azerbaijan
 </p>
 
